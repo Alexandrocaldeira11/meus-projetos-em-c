@@ -1,0 +1,76 @@
+#include <stdio.h>  // Para printf
+#include <string.h> // Para a função strcpy
+
+// Agora o código preenche os dados automaticamente
+int main(void) {
+    
+    // --- Variáveis da Carta 1 ---
+    float pib1, area1;
+    char apelido1[50], nome1[50];
+    int pontos_turisticos1, codigo1, populacao1;
+    char estado1;
+
+    // --- Variáveis da Carta 2 ---
+    float pib2, area2;
+    char apelido2[50], nome2[50];
+    int pontos_turisticos2, codigo2, populacao2;
+    char estado2;
+
+    // ------------------------------------
+    // --- DADOS DA CARTA 1 (Fixos) ---
+    // ------------------------------------
+    
+    // Atribui os valores de São Paulo diretamente
+    pib1 = 828.9;
+    strcpy(apelido1, "Sampa"); // Usa strcpy para copiar o texto
+    pontos_turisticos1 = 5;
+    estado1 = 'S'; // Char usa aspas simples
+    codigo1 = 11;
+    strcpy(nome1, "Sao Paulo");
+    populacao1 = 12400000;
+    area1 = 1521.0;
+
+
+    // ------------------------------------
+    // --- DADOS DA CARTA 2 (Fixos) ---
+    // ------------------------------------
+    
+    // Atribui os valores do Rio de Janeiro diretamente
+    pib2 = 359.6;
+    strcpy(apelido2, "Cidade Maravilhosa");
+    pontos_turisticos2 = 8;
+    estado2 = 'R';
+    codigo2 = 21;
+    strcpy(nome2, "Rio de Janeiro");
+    populacao2 = 6200000;
+    area2 = 1200.0;
+    
+
+    // ------------------------------------
+    // --- EXIBIÇÃO DOS RESULTADOS ---
+    // ------------------------------------
+    printf("\n\n--- CARTAS CADASTRADAS (DADOS FIXOS) ---\n");
+
+    // Carta 1
+    printf("\n// Carta 1:\n");
+    printf("Estado: %c\n", estado1);
+    printf("Apelido: %s\n", apelido1);
+    printf("Nome da Cidade: %s\n", nome1);
+    printf("População: %d\n", populacao1);
+    printf("Área: %.2f km²\n", area1); 
+    printf("PIB: R$%.2f bilhões de reais\n", pib1);
+    printf("Número de Pontos Turísticos: %d\n", pontos_turisticos1);
+
+    // Carta 2
+    printf("\n// Carta 2:\n");
+    printf("Estado: %c\n", estado2);
+    printf("Apelido: %s\n", apelido2);
+    printf("Código: %d\n", codigo2); 
+    printf("Nome da Cidade: %s\n", nome2);
+    printf("População: %d\n", populacao2);
+    printf("Área: %.2f km²\n", area2);
+    printf("PIB: R$%.2f bilhões de reais\n", pib2);
+    printf("Número de Pontos Turísticos: %d\n", pontos_turisticos2);
+
+    return 0; // Indica que o programa terminou com sucesso
+}
