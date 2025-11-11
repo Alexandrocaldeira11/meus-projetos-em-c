@@ -1,4 +1,5 @@
 🧙‍♂️ Olá eu sou Alexandro Caldeira 11 
+
 Super Trunfo em C
 Este projeto consiste no desenvolvimento de um jogo de Super Trunfo de Países em linguagem C, dividido em três níveis de complexidade: Novato, Aventureiro e Mestre. O objetivo é aplicar conceitos fundamentais e avançados de programação, como variáveis, operadores, estruturas de decisão, funções, e muito mais.
 
