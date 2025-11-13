@@ -1,54 +1,50 @@
-🧙‍♂️ Olá eu sou Alexandro Caldeira 11 
+# 🧙‍♂️ Olá, eu sou Alexandro Caldeira! 👋
 
-Super Trunfo em C
-Este projeto consiste no desenvolvimento de um jogo de Super Trunfo de Países em linguagem C, dividido em três níveis de complexidade: Novato, Aventureiro e Mestre. O objetivo é aplicar conceitos fundamentais e avançados de programação, como variáveis, operadores, estruturas de decisão, funções, e muito mais.
+## Sobre mim
+- 🔭 **Atualmente trabalhando em:**
+    - Desafios práticos em **Linguagem C** (Super Trunfo, Xadrez e Batalha Naval).
+    - Refinando a lógica de programação com estruturas avançadas como recursividade e matrizes.
+    - Preparando o portfólio para a transição de carreira em TI.
+- 🌱 **Focado em aprender:**
+    - Segurança da Informação e Redes de Computadores.
+    - Computação em Nuvem e seus fundamentos.
+    - Gestão de Serviços de TI (ITIL) e Governança (COBIT).
+- 👯 **Procurando colaborar em:** Projetos de introdução à programação em C ou Python.
+- 🤔 **Procurando ajuda com:** Otimização de código em C (eliminar duplicação de lógica).
+- 💬 **Pergunte-me sobre:** O ciclo de vida do serviço ITIL ou a implementação de matrizes em jogos.
+- 📫 **Como me encontrar:** Através do meu perfil profissional (veja abaixo).
 
-📋 Descrição do Projeto
-O Super Trunfo é um jogo de cartas onde cada carta representa uma cidade com atributos como população, área, PIB, pontos turísticos, entre outros. O jogador compara os atributos das cartas para determinar a vencedora.
+---
 
-Este projeto foi desenvolvido como parte de um desafio prático para consolidar o aprendizado em programação C, com foco em:
+## 🛠️ Habilidades e Conhecimentos
 
-Entrada e saída de dados
+Estou construindo uma base sólida, focada em prática e frameworks de governança:
 
-Operadores matemáticos e relacionais
+### Linguagens e Ferramentas
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-for-the-badge&logo=git&logoColor=white)
 
-Estruturas de decisão
+### Gestão e Frameworks
+![ITIL](https://img.shields.io/badge/ITIL-1051AB?style=for-the-badge&logo=itil&logoColor=white)
+![COBIT](https://img.shields.io/badge/COBIT-0033A0?style=for-the-badge&logo=itil&logoColor=white)
 
-Funções e modularização
+---
 
-Boas práticas de programação
+## 📊 Estatísticas do GitHub
 
-🎯 Níveis do Desafio
-🟢 Nível Novato
-Cadastro de duas cartas com informações básicas
+[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt_BR)](https://github.com/anuraghazra/github-readme-stats)
 
-Exibição dos dados das cartas
+---
 
-Uso de printf e scanf
+## 📦 Projetos em Destaque
 
-🟡 Nível Aventureiro
-Cálculo de Densidade Populacional e PIB per Capita
+Meu repositório principal com todos os desafios de C:
 
-Formatação de saída com duas casas decimais
+[![Projetos em Destaque](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=tokyonight&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
 
-Reutilização e expansão do código do nível anterior
+---
 
-🔴 Nível Mestre
-Comparação de cartas com base em múltiplos atributos
+## 📧 Contato
 
-Cálculo do Super Poder de cada carta
-
-Uso de operadores relacionais e modificadores de tipo (unsigned long int)
-
-Exibição detalhada dos resultados das comparações
-
-🛠 Tecnologias Utilizadas
-Linguagem: C
-
-Compilador: GCC
-
-Controle de Versão: Git
-
-Plataforma: GitHub e GitHub Codespaces
-
-IDE Sugerida: Code::Blocks, Dev-C++, VS Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandro-caldeira-a3898a325)
