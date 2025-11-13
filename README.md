@@ -27,25 +27,23 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=radical&hide_border=true&locale=pt_BR)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=radical&hide_border=true&locale=pt_BR)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=dark&hide_border=true&locale=pt_BR)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=dark&hide_border=true&locale=pt_BR)
 
 ---
 
 ## 📈 Atividade no GitHub
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=dark&hide_border=true)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=radical&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=dark&hide_border=true)
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 ### Meus Projetos em C
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=radical&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
-
-**Descrição:** Meu repositório principal com todos os desafios de programação em C (Super Trunfo, Xadrez e Batalha Naval).
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=dark&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
 
 ---
 
