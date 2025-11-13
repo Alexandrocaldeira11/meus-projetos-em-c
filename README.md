@@ -1,50 +1,56 @@
 # 🧙‍♂️ Olá, eu sou Alexandro Caldeira 11! 👋
 
 ## Sobre mim
-- 🔭 **Atualmente trabalhando em:**
-    - Desafios práticos em **Linguagem C** (Super Trunfo, Xadrez e Batalha Naval).
-    - Refinando a lógica de programação com estruturas avançadas como recursividade e matrizes.
-    - Preparando o portfólio para a transição de carreira em TI.
+- 🔭 **Atualmente trabalhando em:** Projetos práticos de C e refinando a lógica de programação com recursividade e matrizes (Desafio Batalha Naval).
 - 🌱 **Focado em aprender:**
     - Segurança da Informação e Redes de Computadores.
     - Computação em Nuvem e seus fundamentos.
     - Gestão de Serviços de TI (ITIL) e Governança (COBIT).
 - 👯 **Procurando colaborar em:** Projetos de introdução à programação em C ou Python.
-- 🤔 **Procurando ajuda com:** Otimização de código em C (eliminar duplicação de lógica).
+- 🤔 **Perguntando sobre:** Otimização de código (Princípio DRY) e design de sistemas.
 - 💬 **Pergunte-me sobre:** O ciclo de vida do serviço ITIL ou a implementação de matrizes em jogos.
-- 📫 **Como me encontrar:** Através do meu perfil profissional (veja abaixo).
 
 ---
 
-## 🛠️ Habilidades e Conhecimentos
+## 🛠️ Tecnologias e Ferramentas
 
-Estou construindo uma base sólida, focada em prática e frameworks de governança:
-
-### Linguagens e Ferramentas
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-for-the-badge&logo=git&logoColor=white)
-
-### Gestão e Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ITIL](https://img.shields.io/badge/ITIL-1051AB?style=for-the-badge&logo=itil&logoColor=white)
-![COBIT](https://img.shields.io/badge/COBIT-0033A0?style=for-the-badge&logo=itil&logoColor=white)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt_BR)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=radical&hide_border=true&locale=pt_BR)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=radical&hide_border=true&locale=pt_BR)
 
 ---
 
-## 📦 Projetos em Destaque
+## 📈 Atividade no GitHub
 
-Meu repositório principal com todos os desafios de C:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=radical&hide_border=true)
 
-[![Projetos em Destaque](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=tokyonight&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=radical&hide_border=true)
 
 ---
 
-## 📧 Contato
+## 🚀 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandro-caldeira-a3898a325)
+### Meus Projetos em C
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=radical&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
+
+**Descrição:** Meu repositório principal com todos os desafios de programação em C (Super Trunfo, Xadrez e Batalha Naval).
+
+---
+
+## 📞 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandro-caldeira-a3898a325)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexandrocaldeira11)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandrocaldeira11ti@gmail.com)
