@@ -46,7 +46,8 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
         style="margin: 10px; width: 48%;"
     />
   </a>
-  <a href="https://github.com/Alexandrocaldeira11">
+ # LINHA 49 CORRETA (apenas espaços, sem tabs)
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     <img 
         align="center" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=nord&hide_border=true&locale=pt_BR" 
