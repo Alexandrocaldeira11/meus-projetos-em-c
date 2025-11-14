@@ -41,16 +41,15 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
   <a href="https://github.com/Alexandrocaldeira11">
     <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=nord&hide_border=true&locale=pt_BR" 
+        src="https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=dark&hide_border=true&locale=pt_BR" 
         alt="Estatísticas do GitHub" 
         style="margin: 10px; width: 48%;"
     />
   </a>
- # LINHA 49 CORRETA (apenas espaços, sem tabs)
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  <a href="https://github.com/Alexandrocaldeira11">
     <img 
         align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=nord&hide_border=true&locale=pt_BR" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=dark&hide_border=true&locale=pt_BR" 
         alt="Linguagens Mais Usadas" 
         style="margin: 10px; width: 48%;"
     />
@@ -61,7 +60,7 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
   <a href="https://git.io/streak-stats">
     <img 
         align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=nord&hide_border=true&locale=pt_BR" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=dark&hide_border=true&locale=pt_BR" 
         alt="Estatísticas de Streak" 
         style="margin: 10px; width: 48%;"
     />
@@ -69,7 +68,7 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
   <a href="https://github.com/Alexandrocaldeira11">
     <img 
         align="center" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=nord&hide_border=true" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=dark&hide_border=true" 
         alt="Gráfico de Atividade" 
         style="margin: 10px; width: 48%;"
     />
@@ -102,7 +101,7 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
 
 Aqui estão alguns repositórios para mostrar minhas habilidades técnicas.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=nord&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=dark&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
 
 ---
 
