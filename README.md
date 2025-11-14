@@ -38,41 +38,41 @@ Abaixo estão as ferramentas e os frameworks que utilizo e estudo, apresentados 
 Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projetos:
 
 <div align="center">
-  <a href="https://github.com/Alexandrocaldeira11">
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=dark&hide_border=true&locale=pt_BR" 
-        alt="Estatísticas do GitHub" 
-        style="margin: 10px; width: 48%;"
-    />
-  </a>
-  <a href="https://github.com/Alexandrocaldeira11">
-    <img 
-        align="center" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=dark&hide_border=true&locale=pt_BR" 
-        alt="Linguagens Mais Usadas" 
-        style="margin: 10px; width: 48%;"
-    />
-  </a>
+  <a href="https://github.com/Alexandrocaldeira11">
+    <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api?username=Alexandrocaldeira11&show_icons=true&theme=nord&hide_border=true&locale=pt_BR" 
+        alt="Estatísticas do GitHub" 
+        style="margin: 10px; width: 48%;"
+    />
+  </a>
+  <a href="https://github.com/Alexandrocaldeira11">
+    <img 
+        align="center" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandrocaldeira11&layout=compact&theme=nord&hide_border=true&locale=pt_BR" 
+        alt="Linguagens Mais Usadas" 
+        style="margin: 10px; width: 48%;"
+    />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-        align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=dark&hide_border=true&locale=pt_BR" 
-        alt="Estatísticas de Streak" 
-        style="margin: 10px; width: 48%;"
-    />
-  </a>
-  <a href="https://github.com/Alexandrocaldeira11">
-    <img 
-        align="center" 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=dark&hide_border=true" 
-        alt="Gráfico de Atividade" 
-        style="margin: 10px; width: 48%;"
-    />
-  </a>
+  <a href="https://git.io/streak-stats">
+    <img 
+        align="center" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Alexandrocaldeira11&theme=nord&hide_border=true&locale=pt_BR" 
+        alt="Estatísticas de Streak" 
+        style="margin: 10px; width: 48%;"
+    />
+  </a>
+  <a href="https://github.com/Alexandrocaldeira11">
+    <img 
+        align="center" 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=Alexandrocaldeira11&theme=nord&hide_border=true" 
+        alt="Gráfico de Atividade" 
+        style="margin: 10px; width: 48%;"
+    />
+  </a>
 </div>
 
 ---
@@ -81,17 +81,17 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
 
 <div align="center">
 <picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake-dark.svg">
-  
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake.svg">
-  
-  <img 
-    alt="Animação da Cobrinha no GitHub" 
-    src="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake-dark.svg">
+  
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake.svg">
+  
+  <img 
+    alt="Animação da Cobrinha no GitHub" 
+    src="https://raw.githubusercontent.com/Alexandrocaldeira11/Alexandrocaldeira11/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
@@ -101,7 +101,7 @@ Aqui demonstro minha atividade e as tecnologias que mais utilizo em meus projeto
 
 Aqui estão alguns repositórios para mostrar minhas habilidades técnicas.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=dark&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alexandrocaldeira11&repo=meus-projetos-em-c&theme=nord&locale=pt_BR)](https://github.com/Alexandrocaldeira11/meus-projetos-em-c)
 
 ---
 
